@@ -1,5 +1,16 @@
 # React Study Note/Tips
 
+Install VS Code Software
+
 VS Code Extension
 1. Material Icon Theme
 2. Prettier - Code Formatter
+
+# How to install/create react app
+1. Install Node
+2. npx create-react-app appname
+3. cd project folder
+4. npm start
+
+
+
